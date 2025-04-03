@@ -1,2 +1,2 @@
 # Python
-Learning Python in depth
+Learning Python 
